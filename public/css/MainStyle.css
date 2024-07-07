@@ -283,7 +283,6 @@ myChoices {
 }
 
 .login-boxerB {
-
 	font-family: "Kalam", cursive;
 	font-weight: 700;
 	font-style: normal;
@@ -295,8 +294,25 @@ myChoices {
 	align-content: inherit;
 	-webkit-align-items: inherit;
 	align-items: inherit;
-	text-align: center;
+	text-align: right;
 }
+
+
+.login-boxerL {
+	font-family: "Kalam", cursive;
+	font-weight: 700;
+	font-style: normal;
+	text-decoration: none;
+	color: white;
+	font-size: 30px;
+	-ms-align-content: inherit;
+	-webkit-align-content: inherit;
+	align-content: inherit;
+	-webkit-align-items: inherit;
+	align-items: inherit;
+	text-align: left;
+}
+
 
 .kalam-bold {
 	font-family: "Kalam", cursive;

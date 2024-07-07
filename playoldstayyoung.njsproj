@@ -29,13 +29,6 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="public\CSS\App.css" />
-    <Content Include="public\CSS\drop-files-input.css" />
-    <Content Include="public\CSS\MainStyle.css" />
-    <Content Include="public\CSS\NavMail.css" />
-    <Content Include="public\CSS\StyleSheet1.css" />
-    <Content Include="public\CSS\StyleSheet2.css" />
-    <Content Include="public\CSS\StyleSheet3.css" />
     <Content Include="public\Images\1.Barn-Belle-patrick-Strouken.jpg" />
     <Content Include="public\Images\2.Wallace-Coleman-patrick-strouken.jpg" />
     <Content Include="public\Images\2023-George-Benson-Photo-Carl-Hyde-1000px.jpg" />
@@ -45,6 +38,13 @@
     <Content Include="public\Images\7.Guy-King-patrick-strouken1.jpg" />
     <Content Include="public\Images\back.jpg" />
     <Content Include="public\Images\backinfo.jpg" />
+    <Content Include="public\CSS\App.css" />
+    <Content Include="public\CSS\drop-files-input.css" />
+    <Content Include="public\CSS\MainStyle.css" />
+    <Content Include="public\CSS\NavMail.css" />
+    <Content Include="public\CSS\StyleSheet1.css" />
+    <Content Include="public\CSS\StyleSheet2.css" />
+    <Content Include="public\CSS\StyleSheet3.css" />
     <Content Include="public\Images\greylogo.jpg" />
     <Content Include="public\Images\logo.jpeg" />
     <Content Include="public\Images\logogeelgrey.jpg" />
