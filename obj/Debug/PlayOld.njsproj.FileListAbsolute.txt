@@ -1,0 +1,3 @@
+C:\Users\FollK\source\repos\PlayOld\PlayOld\obj\Debug\PlayOld.njsproj.AssemblyReference.cache
+C:\Users\FollK\source\repos\PlayOld\PlayOld\obj\Debug\PlayOld.njsproj.CoreCompileInputs.cache
+C:\Users\FollK\source\repos\PlayOld\PlayOld\bin\Microsoft.NodejsTools.WebRole.dll
